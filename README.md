@@ -1,2 +1,2 @@
 # Hello
-Author - Krishna Mouli
+Author - Krishna
